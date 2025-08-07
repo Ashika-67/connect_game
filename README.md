@@ -1,1 +1,1 @@
-# connect_game
+# connect-game
